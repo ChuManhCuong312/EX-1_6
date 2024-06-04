@@ -1,0 +1,14 @@
+E:\Study\Code with VisualStudio\EX5_SoNguyen4byte\EX5_SoNguyen4byte\bin\Debug\net8.0\EX5_SoNguyen4byte.exe
+E:\Study\Code with VisualStudio\EX5_SoNguyen4byte\EX5_SoNguyen4byte\bin\Debug\net8.0\EX5_SoNguyen4byte.deps.json
+E:\Study\Code with VisualStudio\EX5_SoNguyen4byte\EX5_SoNguyen4byte\bin\Debug\net8.0\EX5_SoNguyen4byte.runtimeconfig.json
+E:\Study\Code with VisualStudio\EX5_SoNguyen4byte\EX5_SoNguyen4byte\bin\Debug\net8.0\EX5_SoNguyen4byte.dll
+E:\Study\Code with VisualStudio\EX5_SoNguyen4byte\EX5_SoNguyen4byte\bin\Debug\net8.0\EX5_SoNguyen4byte.pdb
+E:\Study\Code with VisualStudio\EX5_SoNguyen4byte\EX5_SoNguyen4byte\obj\Debug\net8.0\EX5_SoNguyen4byte.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Code with VisualStudio\EX5_SoNguyen4byte\EX5_SoNguyen4byte\obj\Debug\net8.0\EX5_SoNguyen4byte.AssemblyInfoInputs.cache
+E:\Study\Code with VisualStudio\EX5_SoNguyen4byte\EX5_SoNguyen4byte\obj\Debug\net8.0\EX5_SoNguyen4byte.AssemblyInfo.cs
+E:\Study\Code with VisualStudio\EX5_SoNguyen4byte\EX5_SoNguyen4byte\obj\Debug\net8.0\EX5_SoNguyen4byte.csproj.CoreCompileInputs.cache
+E:\Study\Code with VisualStudio\EX5_SoNguyen4byte\EX5_SoNguyen4byte\obj\Debug\net8.0\EX5_SoNguyen4byte.dll
+E:\Study\Code with VisualStudio\EX5_SoNguyen4byte\EX5_SoNguyen4byte\obj\Debug\net8.0\refint\EX5_SoNguyen4byte.dll
+E:\Study\Code with VisualStudio\EX5_SoNguyen4byte\EX5_SoNguyen4byte\obj\Debug\net8.0\EX5_SoNguyen4byte.pdb
+E:\Study\Code with VisualStudio\EX5_SoNguyen4byte\EX5_SoNguyen4byte\obj\Debug\net8.0\EX5_SoNguyen4byte.genruntimeconfig.cache
+E:\Study\Code with VisualStudio\EX5_SoNguyen4byte\EX5_SoNguyen4byte\obj\Debug\net8.0\ref\EX5_SoNguyen4byte.dll
