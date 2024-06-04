@@ -1,0 +1,14 @@
+E:\Study\Code with VisualStudio\EX3_SoNguyen2byte\EX3_SoNguyen2byte\bin\Debug\net8.0\EX3_SoNguyen2byte.exe
+E:\Study\Code with VisualStudio\EX3_SoNguyen2byte\EX3_SoNguyen2byte\bin\Debug\net8.0\EX3_SoNguyen2byte.deps.json
+E:\Study\Code with VisualStudio\EX3_SoNguyen2byte\EX3_SoNguyen2byte\bin\Debug\net8.0\EX3_SoNguyen2byte.runtimeconfig.json
+E:\Study\Code with VisualStudio\EX3_SoNguyen2byte\EX3_SoNguyen2byte\bin\Debug\net8.0\EX3_SoNguyen2byte.dll
+E:\Study\Code with VisualStudio\EX3_SoNguyen2byte\EX3_SoNguyen2byte\bin\Debug\net8.0\EX3_SoNguyen2byte.pdb
+E:\Study\Code with VisualStudio\EX3_SoNguyen2byte\EX3_SoNguyen2byte\obj\Debug\net8.0\EX3_SoNguyen2byte.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Code with VisualStudio\EX3_SoNguyen2byte\EX3_SoNguyen2byte\obj\Debug\net8.0\EX3_SoNguyen2byte.AssemblyInfoInputs.cache
+E:\Study\Code with VisualStudio\EX3_SoNguyen2byte\EX3_SoNguyen2byte\obj\Debug\net8.0\EX3_SoNguyen2byte.AssemblyInfo.cs
+E:\Study\Code with VisualStudio\EX3_SoNguyen2byte\EX3_SoNguyen2byte\obj\Debug\net8.0\EX3_SoNguyen2byte.csproj.CoreCompileInputs.cache
+E:\Study\Code with VisualStudio\EX3_SoNguyen2byte\EX3_SoNguyen2byte\obj\Debug\net8.0\EX3_SoNguyen2byte.dll
+E:\Study\Code with VisualStudio\EX3_SoNguyen2byte\EX3_SoNguyen2byte\obj\Debug\net8.0\refint\EX3_SoNguyen2byte.dll
+E:\Study\Code with VisualStudio\EX3_SoNguyen2byte\EX3_SoNguyen2byte\obj\Debug\net8.0\EX3_SoNguyen2byte.pdb
+E:\Study\Code with VisualStudio\EX3_SoNguyen2byte\EX3_SoNguyen2byte\obj\Debug\net8.0\EX3_SoNguyen2byte.genruntimeconfig.cache
+E:\Study\Code with VisualStudio\EX3_SoNguyen2byte\EX3_SoNguyen2byte\obj\Debug\net8.0\ref\EX3_SoNguyen2byte.dll

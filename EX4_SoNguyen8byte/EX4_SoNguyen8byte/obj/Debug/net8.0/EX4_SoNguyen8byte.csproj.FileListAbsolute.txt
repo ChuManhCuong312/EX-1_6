@@ -1,0 +1,14 @@
+E:\Study\Code with VisualStudio\EX4_SoNguyen8byte\EX4_SoNguyen8byte\bin\Debug\net8.0\EX4_SoNguyen8byte.exe
+E:\Study\Code with VisualStudio\EX4_SoNguyen8byte\EX4_SoNguyen8byte\bin\Debug\net8.0\EX4_SoNguyen8byte.deps.json
+E:\Study\Code with VisualStudio\EX4_SoNguyen8byte\EX4_SoNguyen8byte\bin\Debug\net8.0\EX4_SoNguyen8byte.runtimeconfig.json
+E:\Study\Code with VisualStudio\EX4_SoNguyen8byte\EX4_SoNguyen8byte\bin\Debug\net8.0\EX4_SoNguyen8byte.dll
+E:\Study\Code with VisualStudio\EX4_SoNguyen8byte\EX4_SoNguyen8byte\bin\Debug\net8.0\EX4_SoNguyen8byte.pdb
+E:\Study\Code with VisualStudio\EX4_SoNguyen8byte\EX4_SoNguyen8byte\obj\Debug\net8.0\EX4_SoNguyen8byte.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Code with VisualStudio\EX4_SoNguyen8byte\EX4_SoNguyen8byte\obj\Debug\net8.0\EX4_SoNguyen8byte.AssemblyInfoInputs.cache
+E:\Study\Code with VisualStudio\EX4_SoNguyen8byte\EX4_SoNguyen8byte\obj\Debug\net8.0\EX4_SoNguyen8byte.AssemblyInfo.cs
+E:\Study\Code with VisualStudio\EX4_SoNguyen8byte\EX4_SoNguyen8byte\obj\Debug\net8.0\EX4_SoNguyen8byte.csproj.CoreCompileInputs.cache
+E:\Study\Code with VisualStudio\EX4_SoNguyen8byte\EX4_SoNguyen8byte\obj\Debug\net8.0\EX4_SoNguyen8byte.dll
+E:\Study\Code with VisualStudio\EX4_SoNguyen8byte\EX4_SoNguyen8byte\obj\Debug\net8.0\refint\EX4_SoNguyen8byte.dll
+E:\Study\Code with VisualStudio\EX4_SoNguyen8byte\EX4_SoNguyen8byte\obj\Debug\net8.0\EX4_SoNguyen8byte.pdb
+E:\Study\Code with VisualStudio\EX4_SoNguyen8byte\EX4_SoNguyen8byte\obj\Debug\net8.0\EX4_SoNguyen8byte.genruntimeconfig.cache
+E:\Study\Code with VisualStudio\EX4_SoNguyen8byte\EX4_SoNguyen8byte\obj\Debug\net8.0\ref\EX4_SoNguyen8byte.dll
